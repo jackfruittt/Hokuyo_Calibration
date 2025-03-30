@@ -18,6 +18,7 @@ A collection of Python tools for calibrating and visualizing data from a Hokuyo 
    ```
    pip install numpy matplotlib pyserial keyboard
    ```
+   install the URG driver for hokuyo LiDARs, link is here: https://sourceforge.net/p/urgnetwork/wiki/driver_en/
 
 3. Ensure all Python files are in the same directory.
 
